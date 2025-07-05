@@ -1,0 +1,15 @@
+[package]
+name = "web3buddy"
+version = "1.0.0"
+authors = []
+
+[addresses]
+web3buddy="0xa291cc4c7ef0b9de7f91704de56457e073d63e75b49d390892813f1515df31aa"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
