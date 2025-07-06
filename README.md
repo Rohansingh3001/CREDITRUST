@@ -118,7 +118,7 @@ aptos move run --function-id "web3buddy::badges::mint_badge" ...
 
 ## 📦 Deployed Contract Info
 
-- **Aptos Network:** Testnet  
+- **Aptos Network:** Devnet  
 - **Contract Address:** `0xa291cc4c7ef0b9de7f91704de56457e073d63e75b49d390892813f1515df31aa`  
 - **Main Module:** `badges.move` — Mints quest-based soulbound NFTs
 
